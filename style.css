@@ -1,0 +1,30 @@
+#main {
+  display:grid;
+  grid-template-columns:240px 1fr;
+}
+a {
+  color:rgb(0, 0, 120);
+  text-decoration:none;
+}
+h1 {
+  color:rgb(0, 0, 120);
+  font-size:50px;
+  text-align:center;
+  border-bottom:5px solid;
+  padding:20px;
+  margin:0;
+}
+ol {
+  color:rgb(0, 0, 120);
+  font-size:18px;
+  border-right:5px solid;
+  padding:20px;
+  padding-left:40px;
+  margin:0;
+  width:130px;
+  height:100%;
+}
+table {
+  border:1px solid black;
+  padding:10px;
+}
